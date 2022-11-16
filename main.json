@@ -1,0 +1,66 @@
+[
+    {
+        "Nombre":"luis",
+        "Apellido":"Sanchez",
+        "Nota 1":10,
+        "Nota 2":12,
+        "Promedio de Notas":11,
+        "Observaciones":false
+    },
+    {
+        "Nombre":"Miguel",
+        "Apellido":"Vela",
+        "Nota 1":11,
+        "Nota 2":15,
+        "Promedio de Notas":13,
+        "Observaciones":false
+    },
+    {
+        "Nombre":"Jose",
+        "Apellido":"Mariategui",
+        "Nota 1":12,
+        "Nota 2":20,
+        "Promedio de Notas":16,
+        "Observaciones":true
+    },
+    {
+        "Nombre":"Carlos",
+        "Apellido":"Reategui",
+        "Nota 1":15,
+        "Nota 2":20,
+        "Promedio de Notas":17.5,
+        "Observaciones":true
+    },
+    {
+        "Nombre":"Juan",
+        "Apellido":"Sanchez",
+        "Nota 1":10,
+        "Nota 2":18,
+        "Promedio de Notas":14,
+        "Observaciones":false
+    },
+    {
+        "Nombre":"Antonio",
+        "Apellido":"Peres",
+        "Nota 1":8,
+        "Nota 2":14,
+        "Promedio de Notas":11,
+        "Observaciones":false
+    },
+    {
+        "Nombre":"Antony",
+        "Apellido":"Culqui",
+        "Nota 1":9,
+        "Nota 2":10,
+        "Promedio de Notas":9.5,
+        "Observaciones":false
+    },
+    {
+        "Nombre":"Maria",
+        "Apellido":"Maldonado",
+        "Nota 1":10,
+        "Nota 2":8,
+        "Promedio de Notas":9,
+        "Observaciones":false
+    }
+]
